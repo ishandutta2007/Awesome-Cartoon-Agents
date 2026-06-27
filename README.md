@@ -38,32 +38,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Cartoon & Animation AI Agents
 
-- **[Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**  
+- **[Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** [![Stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers)  
   The most popular open-source interface for cartoon and anime generation with ControlNet, LoRAs, and animation extensions.
 
-- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**  
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers)  
   Node-based workflow tool for advanced cartoon generation, character consistency, and animation pipelines.
 
-- **[Fooocus](https://github.com/lllyasviel/Fooocus)**  
+- **[Fooocus](https://github.com/lllyasviel/Fooocus)** [![Stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social&color=white)](https://github.com/lllyasviel/Fooocus/stargazers)  
   User-friendly local AI image generator with excellent cartoon and stylized art capabilities.
 
-- **[AnimateDiff](https://github.com/guoyww/AnimateDiff)**  
-  Open-source tool for creating animated videos from text prompts with temporal consistency.
+- **[LivePortrait](https://github.com/KwaiVGI/LivePortrait)** [![Stars](https://img.shields.io/github/stars/KwaiVGI/LivePortrait?style=social&color=white)](https://github.com/KwaiVGI/LivePortrait/stargazers)  
+  High-quality open-source portrait animation tool adaptable for cartoon characters.
 
-- **[Open-Sora](https://github.com/hpcaitech/Open-Sora)**  
+- **[Open-Sora](https://github.com/hpcaitech/Open-Sora)** [![Stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers)  
   Open-source video generation model adaptable for cartoon and animation creation.
 
-- **[CartoonGAN](https://github.com/Yijunmaverick/CartoonGAN)**  
-  Classic open-source model for converting photos to cartoon styles with high visual quality.
+- **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** [![Stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers)  
+  Open-source tool for creating animated videos from text prompts with temporal consistency.
 
-- **[White-box Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization)**  
-  Open-source photo-to-cartoon conversion tool with strong artistic results.
-
-- **[AniPortrait](https://github.com/Zejun-Yang/AniPortrait)**  
+- **[AniPortrait](https://github.com/Zejun-Yang/AniPortrait)** [![Stars](https://img.shields.io/github/stars/Zejun-Yang/AniPortrait?style=social&color=white)](https://github.com/Zejun-Yang/AniPortrait/stargazers)  
   Open-source tool for generating talking head animations and cartoon-style characters.
 
-- **[LivePortrait](https://github.com/KwaiVGI/LivePortrait)**  
-  High-quality open-source portrait animation tool adaptable for cartoon characters.
+- **[White-box Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization)** [![Stars](https://img.shields.io/github/stars/SystemErrorWang/White-box-Cartoonization?style=social&color=white)](https://github.com/SystemErrorWang/White-box-Cartoonization/stargazers)  
+  Open-source photo-to-cartoon conversion tool with strong artistic results.
+
+- **[CartoonGAN](https://github.com/Yijunmaverick/CartoonGAN)** [![Stars](https://img.shields.io/github/stars/Yijunmaverick/CartoonGAN?style=social&color=white)](https://github.com/Yijunmaverick/CartoonGAN/stargazers)  
+  Classic open-source model for converting photos to cartoon styles with high visual quality.
 
 - **[Make-A-Video / Open-Source Video Models](https://github.com/search?q=open+source+cartoon+animation+ai)**  
   Community-driven video generation projects optimized for stylized and cartoon content.
