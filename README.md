@@ -23,16 +23,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms & Specialized Tools
 
-| Product | Description | Pricing & Free Tier Limits |
-| :--- | :--- | :--- |
-| **[AniStudio](https://anistudio.ai/)** | AI agent platform specialized in cartoon and animation generation with character consistency tools. | **Freemium.** Free tier includes limited credits, watermarked exports, and is restricted to non-commercial use. |
-| **[Agent Opus](https://agentopus.ai/)** | Intelligent AI agent for building complete cartoon scenes and animated stories from prompts. | **Freemium.** Free tier provides 60 credits/month with watermarked exports and limited editing tools. Paid plans start for advanced features. |
-| **[Open Art](https://openart.ai/)** | Creative AI platform with strong cartoon and anime-style generation features. | **Freemium.** Free tier offers 40 one-time trial credits and daily generations on basic models with resolution caps. |
-| **[Adobe Express](https://www.adobe.com/express/)** | AI-powered design tool with cartoon and animation capabilities integrated into Adobe’s ecosystem. | **Freemium.** Free tier includes basic tools, 5GB storage, and limited Firefly generative AI credits. Premium tier starts at $9.99/month. |
-| **[Dora Tunes](https://doratunes.com/)** | AI agent focused on cartoon music videos and animated storytelling. | **Freemium / Not Disclosed.** Pricing details are not publicly listed; free access is typically available with basic capabilities. |
-| **[Renderforest](https://www.renderforest.com/)** | AI-driven animation and cartoon creation platform with templates and easy customization. | **Freemium.** Free tier includes 500MB storage, 5 AI credits, 720p HD exports up to 3 minutes with watermarks. Paid plans start at $9.99/month. |
-| **[Toonify](https://toonify.photos/)** | AI face cartoonization tool using advanced generative models. | **Freemium.** Toonify Classic is free to use; advanced/high-resolution models require paid licenses or API credit purchases. |
-| **[Cartoonify](https://www.canva.com/apps/cartoonify)** | AI photo-to-cartoon converter available as a Canva app or via online web/mobile tools. | **Freemium.** Basic version is free (often via Canva or ad-supported web/mobile apps with watermarks/resolution limits); premium features require a Canva subscription or in-app purchase. |
+| Product | Description | Pricing & Free Tier Limits | Company Size (Revenue / Valuation) |
+| :--- | :--- | :--- | :--- |
+| **[Adobe Express](https://www.adobe.com/express/)** | AI-powered design tool with cartoon and animation capabilities integrated into Adobe’s ecosystem. | **Freemium.** Free tier includes basic tools, 5GB storage, and limited Firefly generative AI credits. Premium tier starts at $9.99/month. | **~$22.4 Billion** annual revenue (Adobe parent) |
+| **[Open Art](https://openart.ai/)** | Creative AI platform with strong cartoon and anime-style generation features. | **Freemium.** Free tier offers 40 one-time trial credits and daily generations on basic models with resolution caps. | **~$70 Million+ ARR** / $30M Series A (2026) |
+| **[Renderforest](https://www.renderforest.com/)** | AI-driven animation and cartoon creation platform with templates and easy customization. | **Freemium.** Free tier includes 500MB storage, 5 AI credits, 720p HD exports up to 3 minutes with watermarks. Paid plans start at $9.99/month. | **~$10.5 Million** annual revenue (est.) |
+| **[Agent Opus](https://agentopus.ai/)** | Intelligent AI agent for building complete cartoon scenes and animated stories from prompts. | **Freemium.** Free tier provides 60 credits/month with watermarked exports and limited editing tools. Paid plans start for advanced features. | **~$5 Million - $10 Million** annual revenue (est.) |
+| **[AniStudio](https://anistudio.ai/)** | AI agent platform specialized in cartoon and animation generation with character consistency tools. | **Freemium.** Free tier includes limited credits, watermarked exports, and is restricted to non-commercial use. | **<$1 Million** annual revenue (est.) |
+| **[Dora Tunes](https://doratunes.com/)** | AI agent focused on cartoon music videos and animated storytelling. | **Freemium / Not Disclosed.** Pricing details are not publicly listed; free access is typically available with basic capabilities. | **<$1 Million** annual revenue (est.) |
+| **[Toonify](https://toonify.photos/)** | AI face cartoonization tool using advanced generative models. | **Freemium.** Toonify Classic is free to use; advanced/high-resolution models require paid licenses or API credit purchases. | **<$100,000** annual revenue (est.) |
+| **[Cartoonify](https://www.canva.com/apps/cartoonify)** | AI photo-to-cartoon converter available as a Canva app or via online web/mobile tools. | **Freemium.** Basic version is free (often via Canva or ad-supported web/mobile apps with watermarks/resolution limits); premium features require a Canva subscription or in-app purchase. | **<$100,000** annual revenue (est.) |
 
 ## Open-Source GitHub Projects
 
