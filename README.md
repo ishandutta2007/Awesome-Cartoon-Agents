@@ -1,19 +1,33 @@
-# Awesome-Cartoon-Agents
-## Top Cartoon Building AI Agents Ecosystem
+# Awesome Cartoon Agents 🎨🤖
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Cartoon Agents Banner - AI Cartoon & Animation Generation" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Cartoon-Agents"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cartoon-Agents?style=flat-square&color=8b5cf6" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cartoon-Agents/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cartoon-Agents?style=flat-square&color=ec4899" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cartoon-Agents/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cartoon-Agents?style=flat-square&color=3b82f6" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 🌟 Top Cartoon Building AI Agents Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Cartoon, Animation & Character Creation*  
-**Last updated: March 2026**
+📅 **Last updated: March 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **Cartoon Building AI Agents**. These tools use AI to generate, animate, and customize cartoons, characters, scenes, and full animations from text prompts, sketches, or reference images.
+This repository tracks notable **SaaS platforms** and **open-source projects** building **Cartoon Building AI Agents**. These intelligent tools leverage generative AI models to generate, animate, and customize cartoons, anime characters, scenes, and full animations from text prompts, sketches, or reference images.
 
 **Examples** include AniStudio, Agent Opus, Open Art, Adobe Express, Dora Tunes, and Renderforest (the category leaders). Tools listed here emphasize **style consistency**, animation capabilities, character design, and creative control.
 
 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local execution, model fine-tuning, and unlimited creative output — ideal for animators, indie creators, and developers who want full control and no usage limits.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+🤝 Contributions welcome! Open a PR to add or update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📌 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
